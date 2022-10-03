@@ -1,0 +1,19 @@
+.link-as-btn{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background-color: #c7bd64;
+    color: #1d35b7;
+  }
+
+  /* .primary-btn{
+    background-color: #c7bd64;
+    color: #1d35b7;
+    padding: 14px 20px;
+    margin: 25px 0;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 100%;
+    
+} */
